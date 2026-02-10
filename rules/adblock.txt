@@ -115,6 +115,6 @@ DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,trackevent
 DOMAIN-KEYWORD,monitor
 DOMAIN-KEYWORD,analytics
-DOMAIN-KEYWORD,logevent
+# DOMAIN-KEYWORD,logevent
 
 # END
