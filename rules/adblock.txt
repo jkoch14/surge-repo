@@ -1,4 +1,37 @@
+# Douyin Ads (safe)
+DOMAIN-SUFFIX,ad.zijieapi.com
+DOMAIN-SUFFIX,ad.bytedance.com
+DOMAIN-SUFFIX,ad-bci.byteimg.com
+DOMAIN-SUFFIX,ad-static.bytedance.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
+DOMAIN-SUFFIX,log-sdk.ksapisrv.com
+DOMAIN-SUFFIX,log-lq.snssdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,pangolin.bytedance.com
+DOMAIN-SUFFIX,adim.pinduoduo.com
+
+
+# Netease Cloud Music Ads (safe)
+DOMAIN-SUFFIX,iadmat.nosdn.127.net
+DOMAIN-SUFFIX,iadmusicmat.music.126.net
+DOMAIN-SUFFIX,iadmusicmat.music.163.com
+DOMAIN-SUFFIX,iad.g.163.com
+DOMAIN-SUFFIX,iadmat.g.163.com
+DOMAIN-SUFFIX,nstool.netease.com
+DOMAIN-SUFFIX,analytics.126.net
+DOMAIN-SUFFIX,admusicpic.music.126.net
+
+# Global Safe Ads
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,adservice.google.com
-DOMAIN-KEYWORD,ads
+DOMAIN-SUFFIX,criteo.net
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,outbrain.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,mopub.com
+DOMAIN-SUFFIX,unityads.com
+DOMAIN-SUFFIX,applovin.com
